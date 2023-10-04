@@ -1,4 +1,4 @@
-# TripleTen Data-Science-Analytics-Projects
+# Data-Science-Analytics-Projects
 
 They involve but aren't limited to Data Preprocessing, Analysis and Visualization, Statistical Analysis, Machine Learning, Machine Learning for texts, Time Series, Computer Vision, etc.
 
