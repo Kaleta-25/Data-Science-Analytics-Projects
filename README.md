@@ -1,4 +1,4 @@
-# Data-Science-Analytics-Projects
+# TripleTen Data Science Bootcamp Projects
 
 They involve but aren't limited to Data Preprocessing, Analysis and Visualization, Statistical Analysis, Machine Learning, Machine Learning for texts, Time Series, Computer Vision, etc.
 
